@@ -93,7 +93,7 @@ export LESS_TERMCAP_us=$'\E[01;32m'
 
 # Alias's for SSH
 # alias SERVERNAME='ssh YOURWEBSITE.com -l USERNAME -p PORTNUMBERHERE'
-
+alias tank='ssh wesley@10.0.0.250'
 # Alias's to change the directory
 alias web='cd /var/www/html'
 alias gh='cd ~/github'
